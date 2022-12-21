@@ -1,0 +1,4 @@
+*.o
+bastool
+hfs2lif
+lif2hfs
